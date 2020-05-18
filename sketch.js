@@ -53,8 +53,3 @@ function calculate()
   }
   
 }
-
-/*function draw() 
-{
-  background(220);
-}*/
